@@ -1,3 +1,3 @@
 <?php
-    $db = mysqli_connect('localhost','root','','trpl');
+    $db = mysqli_connect('localhost','root','dante1231905','trpl');
     
